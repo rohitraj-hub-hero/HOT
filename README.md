@@ -16,7 +16,7 @@
 </p>
 
 # Pikachu
-Me On Telegram [✨Pikachu✨](https://t.me/Pikachu_X_bot)
+Me On Telegram [✨Villain✨](https://t.me/ll_villain_ll)
 
 ## How To Host
 The easiest way to deploy this Bot
@@ -24,10 +24,8 @@ The easiest way to deploy this Bot
  
 CREDITS
 ```
-❤️ Kristina- Dipesh
-❤ Pikachu - Manjeet
-❤️ 
-This Bot Is Created By @Murat_30_God ! if your kanging this without fork at least give a credit to get a smile of my hard work.
+💫𝑽𝑰𝑳𝑳𝑨𝑰𝑵
+This Bot Is Created By @ll_villain_ll ! if your kanging this without fork at least give a credit to get a smile of my hard work.
 
 
 
