@@ -1,6 +1,6 @@
 # Pikachu
 <p align="center">
-    <a href="https://github.com/kaal0408/Pikachu/stargazers"><img src="https://img.shields.io/github/stars/kaal0408/Pikachu?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
+    <a href="https://github.com/rohitraj-hub-hero/HOT/stargazers"><img src="https://img.shields.io/github/stars/kaal0408/Pikachu?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
 </p>
 <p align="center">
     <a href="https://app.codacy.com/manual/kaal0408/Pikachu/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
